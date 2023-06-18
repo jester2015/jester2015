@@ -6,6 +6,8 @@ Passionate about building and maintaining **homelabs**, and crafting exciting **
 
 💼 Open to collaborations on cutting-edge backend technologies like **Quarkus**, **Node.js**, and **Flutter**.
 
+🔧 Proud owner of **AbsentTech**.
+
 📫 Reach me at jessiesmith@absenthome.com. Let's connect and embark on an amazing journey together, satisfying our insatiable thirst for knowledge!
 
 > _"Stay curious, stay inspired."_ 🚀
