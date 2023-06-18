@@ -1,12 +1,15 @@
-### Hi there, I'm Jessie!
+## Hey there, I'm Jessie! 👋
 
-I'm passionate about building and maintaining homelabs, as well as working on exciting Angular/React projects.
+Passionate about building and maintaining **homelabs**, and crafting exciting **Angular/React** projects.
 
-Currently, I'm actively learning and expanding my skill set. I have a constant thirst for knowledge and I've been immersing myself in DevOps classes, focusing on Ansible and Terraform. Additionally, I've been actively involved in developing Angular projects.
+🌱 Always thirsty for knowledge, I'm actively expanding my skill set. Currently diving deep into **DevOps** classes, mastering **Ansible** and **Terraform**. Additionally, I've been actively involved in developing innovative **Angular** projects.
 
-I'm open to collaborations on various backend projects, specifically in technologies like Quarkus, Node.js, and Flutter.
+💼 Open to collaborations on cutting-edge backend technologies like **Quarkus**, **Node.js**, and **Flutter**.
 
-You can reach me at jessiesmith@absenthome.com. Feel free to get in touch—I'm always eager to connect, explore new opportunities, and satisfy my thirst for knowledge!
+📫 Reach me at jessiesmith@absenthome.com. Let's connect and embark on an amazing journey together, satisfying our insatiable thirst for knowledge!
+
+> _"Stay curious, stay inspired."_ 🚀
+
 
 
 <!---
