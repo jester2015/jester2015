@@ -12,7 +12,7 @@ Passionate about building and maintaining **homelabs**, and crafting exciting **
 
 > _"Stay curious, stay inspired."_ 🚀
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jester2015)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 jester2015/jester2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
